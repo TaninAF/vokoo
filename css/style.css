@@ -1,0 +1,93 @@
+
+body{
+    background-color: rgb(36, 193, 255);
+}
+caption{
+    padding: 20px; 
+    border-style: double
+}
+th{
+    color: black;
+    background-color:rgb(255, 128, 255);
+    font-size: 42px;
+    font-weight: bolder;
+}
+td{
+    background-color: rgb(255, 194, 255);
+    padding: 20px;
+}
+u{
+    color: rgb(253, 5, 5);
+    background-color: white; 
+    font-size: 60px;
+    font-weight: bolder;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 43px;
+    background-color: #28d8fc;
+    display: inline;
+}
+.fc{
+    color: rgb(173, 94, 247);
+    font-size: 33px; font-weight: bold;
+}
+#zc{
+    color: rgb(134, 128, 128);
+    font-size: 50px;
+    font-weight: bold;
+}
+.sc{
+    color: #0eb980;
+    font-size: 40px;
+    font-weight: bold;
+}
+.tc{
+    color: rgb(253, 8, 8);
+    font-size: 34px;
+    font-weight: bold;
+}
+#lc{
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+    font-weight: bold;
+    background-color: skyblue
+}
+.nc{
+    color: rgb(241, 9, 241);
+    font-size: 34px;
+    font-weight: bold;
+}
+.mc{
+    color: rgb(92, 91, 91);
+    font-size: 43px;
+    font-weight: bold;
+}
+.div1{
+   text-align: center;
+   color: rgb(12, 1, 1);
+   background-color: lightseagreen;
+   width: 450px;
+   height: 250px;
+   float: left;
+   margin-right: 70px;
+}
+.div2{
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 450px;
+    height: 250px;
+    float: left;
+}
+.tdcls{
+    color: whitesmoke;
+    background-color: rgb(255, 89, 89);
+    font-size: 36;
+    font-weight: bold;
+}
+#pid{
+    color: rgb(0, 0, 0);
+    background-color: rgb(96, 204, 247);
+    font-size: 42;
+}
